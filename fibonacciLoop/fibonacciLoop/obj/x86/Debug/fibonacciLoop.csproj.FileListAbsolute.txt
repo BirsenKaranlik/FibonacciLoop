@@ -1,0 +1,5 @@
+C:\Users\Birsen\Desktop\algoritma analiz\fibonacciLoop\fibonacciLoop\bin\Debug\fibonacciLoop.exe
+C:\Users\Birsen\Desktop\algoritma analiz\fibonacciLoop\fibonacciLoop\bin\Debug\fibonacciLoop.pdb
+C:\Users\Birsen\Desktop\algoritma analiz\fibonacciLoop\fibonacciLoop\obj\x86\Debug\fibonacciLoop.csprojResolveAssemblyReference.cache
+C:\Users\Birsen\Desktop\algoritma analiz\fibonacciLoop\fibonacciLoop\obj\x86\Debug\fibonacciLoop.exe
+C:\Users\Birsen\Desktop\algoritma analiz\fibonacciLoop\fibonacciLoop\obj\x86\Debug\fibonacciLoop.pdb
